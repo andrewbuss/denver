@@ -1,0 +1,3 @@
+[submodule "boot-experiments"]
+	path = boot-experiments
+	url = https://github.com/andrewbuss/boot-experiments
